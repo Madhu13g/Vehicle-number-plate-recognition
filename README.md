@@ -6,4 +6,11 @@ Libreries and Frameworks are required :
   > Yolo8
   > OCR (Optical Character Recognition)
   > Numpy and Pandas
-    
+
+
+Install pytesseract in browser for updated version
+  --https://github.com/UB-Mannheim/tesseract/wiki
+
+After installing pytesseract set the variable path in your system
+
+UPLOAD the freedomtech folder into your google drive  
