@@ -14,3 +14,6 @@ Install pytesseract in browser for updated version
 After installing pytesseract set the variable path in your system
 
 UPLOAD the freedomtech folder into your google drive  
+
+Complete video --
+          process of Running  : https://www.youtube.com/watch?v=gCNEJg0I7OQ
